@@ -5,4 +5,4 @@ Game created with Python.
 
 * **Carlos Guedes** - [CarlosGuedesPinto](https://github.com/CarlosGuedesPinto)
 
-* **Eloi Leitão** -
+* **Eloi Leitão** - [eloileitao](https://github.com/eloileitao)
